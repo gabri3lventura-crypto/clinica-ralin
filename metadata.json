@@ -1,0 +1,8 @@
+{
+  "name": "Clínica Ralin Saúde Integrada",
+  "description": "Clínica médica e odontológica multidisciplinar em Aracaju com foco em DTM, Dor Orofacial e Bruxismo. Diagnóstico preciso e cuidado humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
